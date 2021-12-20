@@ -1,2 +1,2 @@
-App made on react, using custom hooks for letting you add, delete and check mark all the tasks you want to
+App made on react, using concepts of custom hooks and local storage for letting you add, delete and check mark all the tasks you want to
 include.
