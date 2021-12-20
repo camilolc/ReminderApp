@@ -22,7 +22,7 @@ export const AllAdd = ({ handleAllApp }) => {
   };
   return (
     <>
-      <h4>Add all</h4>
+      <h4>Add task</h4>
       <hr />
       <form onSubmit={handleSubmit}>
         <input
