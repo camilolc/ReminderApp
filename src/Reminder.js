@@ -38,7 +38,8 @@ export const Reminder = () => {
 
   return (
     <div>
-      <h1>TodoApp({all.length})</h1>
+      <h1>Task Reminder App.</h1>
+      <p>Number of tasks({all.length})</p>
       <hr />
       <div className="row">
         <div className="col-7">
